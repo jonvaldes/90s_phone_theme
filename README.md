@@ -1,7 +1,7 @@
 90's Phone Theme
 ================
 
-This theme was originally created by Suricrasia Online in this Mastodon post, which subsequently exploded in
+This theme was originally created by Suricrasia Online and shared in this Mastodon post, which subsequently exploded in
 popularity:
 https://cybre.space/@SuricrasiaOnline/102993060452718260
 
@@ -28,11 +28,11 @@ adhering to that palette to remain consistent with the rest. This is by no means
 things look just awful in 16 colors, so exceptions can be made. Also, providing several versions of the same
 icon with varying levels of "pureness" should also be fine.
 
-A GIMP palette file is provided, as well as an image of that palette.
+A GIMP palette file with Windows' original 20 colors is provided, as well as an image of that palette.
 
-To work with GIMP, you can just import the palette file, and then select Image->Mode->Indexed... to create a  
-palettized version of your image. Be sure to try out different dithering modes, as some modes will look
-terrible for some images.
+To work with GIMP, you can just import the palette file (right click->"Import Palette..." on the palettes 
+list), and then select Image->Mode->Indexed... to create a palettized version of your image. Be sure to try
+out different dithering modes, as some modes will look terrible for some images.
 
 Contributing
 ============
