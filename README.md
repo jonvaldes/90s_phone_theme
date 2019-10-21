@@ -34,6 +34,12 @@ To work with GIMP, you can just import the palette file (right click->"Import Pa
 list), and then select Image->Mode->Indexed... to create a palettized version of your image. Be sure to try
 out different dithering modes, as some modes will look terrible for some images.
 
+Indexed mode, custom palette
+---
+
+If the default color palette just can't be made to work, another option is to create a custom palette with a very low color count. In GIMP, you can select Image->Mode->Indexed..., select "Generate Optimum Palette" with a low color count (8, 10, 12, depending on the icon), and try different dithering modes. This won't be as 90's, but it'll probably look pretty good!
+
+
 Contributing
 ============
 
