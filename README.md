@@ -26,9 +26,9 @@ Color palette
 Old-time Windows used either a 16 or a 20 color palette, so the idea is to try to keep icons in this icon set
 adhering to that palette to remain consistent with the rest. This is by no means a requirement, though. Some
 things look just awful in 16 colors, so exceptions can be made. Also, providing several versions of the same
-icon with varying levels of "pureness" should also be fine.
+icon with varying levels of "technological purity" should also be fine.
 
-A GIMP palette file with Windows' original 20 colors is provided, as well as an image of that palette.
+A GIMP palette file with Windows' original 20 colors is provided in the `palette` directory, as well as an image of that palette.
 
 To work with GIMP, you can just import the palette file (right click->"Import Palette..." on the palettes 
 list), and then select Image->Mode->Indexed... to create a palettized version of your image. Be sure to try
