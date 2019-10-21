@@ -1,0 +1,24 @@
+GIMP Palette
+Name: windows_20_color_palette
+Columns: 10
+#
+  0   0   0	Black
+128   0   0	Dark Red
+  0 128   0	Dark Green
+128 128   0	Dark Yellow
+  0   0 128	Dark Blue
+128   0 128	Dark Magenta
+  0 128 128	Dark Cyan
+192 192 192	Light Grey
+192 220 192	Money Green
+166 202 240	Sky Blue
+255 251 240	Cream
+160 160 164	Medium Grey
+128 128 128	Dark Grey
+255   0   0	Red
+  0 255   0	Green
+255 255   0	Yellow
+  0   0 255	Blue
+255   0 255	Magenta
+  0 255 255	Cyan
+255 255 255	White
